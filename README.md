@@ -16,3 +16,7 @@
    <img alt="css3" src="https://img.shields.io/badge/-CSS3-BA55D3?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
