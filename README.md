@@ -1,6 +1,6 @@
 ### Hello world, I'm Anna 👋
 
-<h5>My skills:</h5>
+<h5>In my projects I use:</h5>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
