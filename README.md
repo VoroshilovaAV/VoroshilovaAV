@@ -25,7 +25,7 @@
 </p>
 
 <div align="center">
-  <h5><a href="https://cv-voroshilova.netlify.app">Go to my website</a></h5>
+  <h4><a href="https://cv-voroshilova.netlify.app">Go to my website</a></h4>
   <h5> I will be glad to communicate!</h5>
   <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt=""/>
 
