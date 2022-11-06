@@ -1,5 +1,5 @@
 ### Hello world, I'm Anna <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=13&pause=1000&color=961CBD&background=A8FF3A00&width=440&height=35&lines=Frontend+Developer;Always+learning+something+new;I+will+be+glad+to+talk+to+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=14&pause=1000&color=000000&background=A8FF3A00&width=440&height=20&lines=Frontend+Developer;Always+learning+something+new;I+will+be+glad+to+talk+to+you!" alt="Typing SVG" /></a>
 
 <h5>In my projects I use:</h5>
 <p>
