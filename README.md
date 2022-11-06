@@ -2,7 +2,7 @@
 
 <h5>In my projects I use:</h5>
 <p>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  <a href='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'>
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,5 +28,7 @@
   <h5> Go to my [website](https://cv-voroshilova.netlify.app/)</h5>
   <h5> I will be glad to communicate!</h5>
   <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt=""/>
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VoroshilovaAV&theme=buefy&hide_border=true&border_radius=6.5)](https://git.io/streak-stats)
+  
 </div>
