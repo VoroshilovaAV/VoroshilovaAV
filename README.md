@@ -2,26 +2,26 @@
 
 <h5>In my projects I use:</h5>
 <p>
-  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
-  <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
-  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
-  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/>
-  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-  <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
-  <img src='https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white'/>
-  <img src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-  <img src='https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37'/>
-  <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white'/>
-  <img src='https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black'/>
-  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
-   <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'/>
-  <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
-  <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
-  <img src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white'/>
-  <img src='https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white'/>
-  <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'/>
-  <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)logoColor=white'/>
+  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white'/>
+  <img src='https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white' />
+  <img src='https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E'/>
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white'/>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB'/>
+  <img src='https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white'/>
+  <img src='https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white'/>
+  <img src='https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB'/>
+  <img src='https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37'/>
+  <img src='https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white'/>
+  <img src='https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black'/>
+  <img src='https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white'/>
+  <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white'/>
+  <img src='https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white'/>
+  <img src='https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white'/>
+  <img src='https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white'/>
+  <img src='https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white'/>
+  <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white'/>
+  <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white'/>
+  <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)logoColor=white'/>
 </p>
 
 <div align="center">
