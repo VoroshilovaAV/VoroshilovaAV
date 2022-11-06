@@ -1,7 +1,7 @@
 <div align="center">
-### Hello world, I'm Anna <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=050006&background=A8FF3A00&center=true&vCenter=true&width=440&height=35&lines=Frontend+Developer;Always+learning+something+new;I+will+be+glad+to+talk+to+you!" alt="Typing SVG" /></a>
+<h1>Hello world, I'm Anna</h1> <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="100"/>
 </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=050006&background=A8FF3A00&center=true&vCenter=true&width=440&height=35&lines=Frontend+Developer;Always+learning+something+new;I+will+be+glad+to+talk+to+you!" alt="Typing SVG" /></a>
 
 <h5>In my projects I use:</h5>
 <p>
