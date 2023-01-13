@@ -28,10 +28,8 @@
 <div align="center">
   <h3><a href="https://cv-voroshilova.netlify.app" target="_blank">Go to my website</a></h3>
   <h5> I will be glad to communicate!</h5>
-  <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt="views"/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt="views"/><br>
 
-<div align="center"> 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VoroshilovaAV&theme=default) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VoroshilovaAV&theme=default)  
 </div>
