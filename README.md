@@ -29,7 +29,7 @@
   <h3><a href="https://cv-voroshilova.netlify.app" target="_blank">Go to my website</a></h3>
   <h5> I will be glad to communicate!</h5>
   <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt="views"/>
-
+  <br>
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoroshilovaAV&theme=default)
 
 </div>
