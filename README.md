@@ -30,6 +30,6 @@
   <h5> I will be glad to communicate!</h5>
   <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt="views"/>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoroshilovaAV)](https://github.com/anuraghazra/github-readme-stats)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VoroshilovaAV&theme=default)
 
 </div>
