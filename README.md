@@ -25,8 +25,8 @@
   <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)logoColor=white'alt="icon"/>
-  <img src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white'alt="icon"/>
+  <img src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white'alt="icon"/>  
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white'alt="icon"/>
 </p>
 
