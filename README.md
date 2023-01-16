@@ -5,7 +5,7 @@
 <p>
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white' alt="icon"/>
-  <img src='https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E'alt="icon"/>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black'alt="icon"/>
   <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB'alt="icon"/>
   <img src='https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white'alt="icon"/>
@@ -21,15 +21,20 @@
   <img src='https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white'alt="icon"/>
+  <img src='https://img.shields.io/badge/prettier-1A2C34?logo=prettier&logoColor=F7BA3E'alt="icon"/>
   <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)logoColor=white'alt="icon"/>
+  <img src='https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white'alt="icon"/>
+  <img src='https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white'alt="icon"/>
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white'alt="icon"/>
 </p>
 
 <div align="center">
   <h3><a href="https://cv-voroshilova.netlify.app" target="_blank">Go to my website</a></h3>
   <h5> I will be glad to communicate!</h5>
   <img src="https://komarev.com/ghpvc/?username=VoroshilovaAV&style=flat-square&color=blue" alt="views"/>
+  <img src="https://img.shields.io/github/followers/VoroshilovaAV.svg?style=social&label=Follow&maxAge=2592000" alt="followers"/>
 </div>
 <br/>
 <div align="center">
