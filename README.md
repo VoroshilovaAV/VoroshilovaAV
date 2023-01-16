@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VoroshilovaAV&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VoroshilovaAV&theme=nord_bright&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VoroshilovaAV&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VoroshilovaAV&theme=tokyonight&utcOffset=8)
   
 </div>
