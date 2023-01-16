@@ -16,6 +16,7 @@
   <img src='https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black'alt="icon"/>
   <img src='https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white'alt="icon"/>
+  <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white'alt="icon"/>
   <img src='https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white'alt="icon"/>
